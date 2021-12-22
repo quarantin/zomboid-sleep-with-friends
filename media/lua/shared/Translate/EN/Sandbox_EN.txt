@@ -1,0 +1,14 @@
+Sandbox_EN = {
+	Sandbox_SleepWithFriends_SleepLength = "Sleep Length",
+	Sandbox_SleepWithFriends_SleepLength_tooltip = "Define how long players will sleep on average in real-time minutes.",
+	Sandbox_SleepWithFriends_SleepLength_option1  = "1 Minute",
+	Sandbox_SleepWithFriends_SleepLength_option2  = "2 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option3  = "3 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option4  = "4 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option5  = "5 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option6  = "6 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option7  = "7 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option8  = "8 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option9  = "9 Minutes",
+	Sandbox_SleepWithFriends_SleepLength_option10 = "10 Minutes",
+}
