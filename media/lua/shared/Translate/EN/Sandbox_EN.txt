@@ -8,4 +8,8 @@ Sandbox_EN = {
 	Sandbox_SleepWithFriends_SleepLength_option5  = "~5 Hours",
 	Sandbox_SleepWithFriends_SleepLength_option6  = "~6 Hours",
 	Sandbox_SleepWithFriends_SleepLength_option7  = "~7 Hours",
+	Sandbox_SleepWithFriends_AutoWake = "AutoWake Enabled",
+	Sandbox_SleepWithFriends_AutoWake_tooltip = "Set if AutoWake is enabled.",
+	Sandbox_SleepWithFriends_AutoWake_option1 = "True",
+	Sandbox_SleepWithFriends_AutoWake_option2 = "False",
 }
