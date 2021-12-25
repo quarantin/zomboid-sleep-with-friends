@@ -8,3 +8,12 @@ option SleepWithFriends.SleepLength
 	page = TimeOptions,
 	translation = SleepWithFriends_SleepLength,
 }
+
+option SleepWithFriends.AutoWake
+{
+	type = enum,
+	numValues = 2,
+	default = 1,
+	page = TimeOptions,
+	translation = SleepWithFriends_AutoWake,
+}
