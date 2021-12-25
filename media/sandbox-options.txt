@@ -3,7 +3,7 @@ VERSION = 1,
 option SleepWithFriends.SleepLength
 {
 	type = enum,
-	numValues = 10,
+	numValues = 7,
 	default = 2,
 	page = TimeOptions,
 	translation = SleepWithFriends_SleepLength,
